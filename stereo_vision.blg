@@ -1,0 +1,16 @@
+[0] Config.pm:304> INFO - This is Biber 2.14
+[0] Config.pm:307> INFO - Logfile is 'stereo_vision.blg'
+[88] biber-darwin:322> INFO - === Sat May 23, 2020, 20:57:15
+[106] Biber.pm:415> INFO - Reading 'stereo_vision.bcf'
+[193] Biber.pm:943> INFO - Found 3 citekeys in bib section 0
+[207] Biber.pm:4256> INFO - Processing section 0
+[207] Utils.pm:75> INFO - Globbing data source 'stereo_vision.bib'
+[207] Utils.pm:91> INFO - Globbed data source 'stereo_vision.bib' to stereo_vision.bib
+[217] Biber.pm:4455> INFO - Looking for bibtex format file 'stereo_vision.bib' for section 0
+[218] bibtex.pm:1653> INFO - LaTeX decoding ...
+[223] bibtex.pm:1471> INFO - Found BibTeX data source 'stereo_vision.bib'
+[260] UCollate.pm:68> INFO - Overriding locale 'uk-UA' defaults 'variable = shifted' with 'variable = non-ignorable'
+[260] UCollate.pm:68> INFO - Overriding locale 'uk-UA' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[260] Biber.pm:4084> INFO - Sorting list 'nty/global//global/global' of type 'entry' with template 'nty' and locale 'uk-UA'
+[264] bbl.pm:652> INFO - Writing 'stereo_vision.bbl' with encoding 'UTF-8'
+[265] bbl.pm:755> INFO - Output to stereo_vision.bbl
