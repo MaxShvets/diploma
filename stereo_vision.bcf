@@ -2186,6 +2186,7 @@
     <bcf:citekey order="2">middlebury2001dataset</bcf:citekey>
     <bcf:citekey order="3">ioffe2015batch</bcf:citekey>
     <bcf:citekey order="4">zbontar2016stereo</bcf:citekey>
+    <bcf:citekey order="5">zbontar2016stereo</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

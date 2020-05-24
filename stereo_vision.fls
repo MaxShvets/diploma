@@ -133,7 +133,6 @@ OUTPUT stereo_vision.pdf
 INPUT /usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT /Users/maxshvets/Library/texlive/2020/texmf-var/fonts/tfm/lh/lh-t2a/larm1440.tfm
 INPUT /Users/maxshvets/Library/texlive/2020/texmf-var/fonts/tfm/lh/lh-t2a/labx1440.tfm
-INPUT /Users/maxshvets/Library/texlive/2020/texmf-var/fonts/tfm/lh/lh-t2a/labx1000.tfm
 INPUT ./assets/disparity_example_left.png
 INPUT ./assets/disparity_example_left.png
 INPUT ./assets/disparity_example_left.png
@@ -160,6 +159,7 @@ INPUT ./assets/disparity_example_right.png
 INPUT ./assets/triangulation_with_cameras.png
 INPUT ./assets/triangulation_with_cameras.png
 INPUT ./assets/triangulation_with_cameras.png
+INPUT /Users/maxshvets/Library/texlive/2020/texmf-var/fonts/tfm/lh/lh-t2a/labx1000.tfm
 INPUT ./assets/disparity_map_example.jpg
 INPUT ./assets/disparity_map_example.jpg
 INPUT ./assets/disparity_map_example.jpg
@@ -189,11 +189,17 @@ INPUT ./assets/kitti_example_right.png
 INPUT ./assets/no_smoothing_result.png
 INPUT ./assets/no_smoothing_result.png
 INPUT ./assets/no_smoothing_result.png
+INPUT ./assets/smoothing_result.png
+INPUT ./assets/smoothing_result.png
+INPUT ./assets/smoothing_result.png
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
+INPUT /usr/local/texlive/2020/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
+INPUT /Users/maxshvets/Library/texlive/2020/texmf-var/fonts/tfm/lh/lh-t2a/latt1000.tfm
 INPUT stereo_vision.aux
 INPUT stereo_vision.run.xml
 OUTPUT stereo_vision.run.xml
-INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb
@@ -209,3 +215,4 @@ INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pf
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb
 INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sfti1000.pfb
+INPUT /usr/local/texlive/2020/texmf-dist/fonts/type1/public/cm-super/sftt1000.pfb
