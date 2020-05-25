@@ -4,3 +4,35 @@
 \contentsline {section}{\numberline {1}Огляд}{2}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {2}Стереобачення}{2}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Виправлення зображеннь}{4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.2}Релевантність}{4}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Алгоритм}{5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Базовий алгоритм}{5}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Структура нейронної мережі}{6}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}Застосування нейронної мережі}{7}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {4}Тренування}{10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.1}Побудова датасету для тренування}{10}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.2}Підхід до тренування}{11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {4.3}Функція витрат}{11}%
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {5}Згладжування}{12}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.1}Cost агрегація}{12}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.2}Перехрестна cost агрегація}{12}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.3}Semiglobal matching}{12}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.4}Поєднання методів}{12}%
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {5.5}Результати згладжування}{13}%

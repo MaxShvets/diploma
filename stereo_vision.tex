@@ -1,4 +1,4 @@
-\documentclass{article}
+\documentclass[11pt]{article}
 
 \usepackage[utf8]{inputenc}
 \usepackage[english, ukrainian]{babel}
@@ -12,6 +12,7 @@
 \usepackage{caption}
 \usepackage{subcaption}
 \usepackage{setspace}
+\usepackage{listings}
 
 \newtheorem{theorem}{Теорема}
 \newtheorem*{theorem*}{Теорема}
@@ -79,6 +80,10 @@
 	\vspace*{\fill}
 	\centering Киів-2020
 \end{titlepage}
+
+\newpage
+
+\tableofcontents
 
 \newpage
 
@@ -232,6 +237,8 @@ Cost-функція розраховується за формулою:
  	\label{fig:bad_approach_example}
  \end{figure}
 
+\newpage
+
 \section{Тренування}
 Чи буде мережа добре обчислювати cost-функцію залежить від значень параметрів в її згорткових блоках. Параметрами згорткового блока є числа в тензорах з якими він виконує згортку.
 \begin{example*}
@@ -306,5 +313,11 @@ Cost-функція розраховується за формулою:
 \newpage
 
 \printbibliography 
+
+\newpage
+
+\section*{Додаток 1}
+Процедура вибору данних для тренувального датасету
+\lstinputlisting[language=Octave]{assets/extract_patches.m}
 
 \end{document}

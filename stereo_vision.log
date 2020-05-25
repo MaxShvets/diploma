@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.19)  25 MAY 2020 02:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.19)  25 MAY 2020 03:00
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -8,8 +8,8 @@ LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06> (/usr/local/texlive/2020/texmf-dist/tex/latex
 /base/article.cls
 Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
-(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size10.clo
-File: size10.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
 \c@part=\count167
 \c@section=\count168
@@ -647,20 +647,41 @@ Package: subcaption 2020/01/22 v1.3d Sub-captions (AR)
 \c@subtable=\count387
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/setspace/setspace.sty
 Package: setspace 2011/12/19 v6.7a set line spacing
-)
-\c@theorem=\count388
-\c@proposition=\count389
-\c@definition=\count390
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/listings/listings.sty
+\lst@mode=\count388
+\lst@gtempboxa=\box48
+\lst@token=\toks31
+\lst@length=\count389
+\lst@currlwidth=\dimen167
+\lst@column=\count390
+\lst@pos=\count391
+\lst@lostspace=\dimen168
+\lst@width=\dimen169
+\lst@newlines=\count392
+\lst@lineno=\count393
+\lst@maxwidth=\dimen170
+(/usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstmisc.sty
+File: lstmisc.sty 2020/03/24 1.8d (Carsten Heinz)
+\c@lstnumber=\count394
+\lst@skipnumbers=\count395
+\lst@framebox=\box49
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/listings/listings.cfg
+File: listings.cfg 2020/03/24 1.8d listings configuration
+))
+Package: listings 2020/03/24 1.8d (Carsten Heinz)
+\c@theorem=\count396
+\c@proposition=\count397
+\c@definition=\count398
 
 Package biblatex Warning: 'babel/polyglossia' detected but 'csquotes' missing.
 (biblatex)                Loading 'csquotes' recommended.
 
-\@quotelevel=\count391
-\@quotereset=\count392
+\@quotelevel=\count399
+\@quotereset=\count400
 (/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
 File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
-\l__kernel_color_stack_int=\count393
-\l__pdf_internal_box=\box48
+\l__kernel_color_stack_int=\count401
+\l__pdf_internal_box=\box50
 ) (./stereo_vision.aux
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 8
 .
@@ -669,22 +690,22 @@ File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 ))
 \openout1 = `stereo_vision.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 28.
-LaTeX Font Info:    ... okay on input line 28.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 29.
+LaTeX Font Info:    ... okay on input line 29.
 Package biblatex Info: Trying to load language 'ukrainian'...
 Package biblatex Info: ... file 'ukrainian.lbx' found.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/biblatex/lbx/ukrainian.lbx
@@ -703,21 +724,21 @@ Package biblatex Info: Automatic encoding selection.
 Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'stereo_vision.bbl' found.
 (./stereo_vision.bbl)
-Package biblatex Info: Reference section=0 on input line 28.
-Package biblatex Info: Reference segment=0 on input line 28.
+Package biblatex Info: Reference section=0 on input line 29.
+Package biblatex Info: Reference segment=0 on input line 29.
 (/usr/local/texlive/2020/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count394
-\scratchdimen=\dimen167
-\scratchbox=\box49
-\nofMPsegments=\count395
-\nofMParguments=\count396
-\everyMPshowfont=\toks31
-\MPscratchCnt=\count397
-\MPscratchDim=\dimen168
-\MPnumerator=\count398
-\makeMPintoPDFobject=\count399
-\everyMPtoPDFconversion=\toks32
+\scratchcounter=\count402
+\scratchdimen=\dimen171
+\scratchbox=\box51
+\nofMPsegments=\count403
+\nofMParguments=\count404
+\everyMPshowfont=\toks32
+\MPscratchCnt=\count405
+\MPscratchDim=\dimen172
+\MPnumerator=\count406
+\makeMPintoPDFobject=\count407
+\everyMPtoPDFconversion=\toks33
 ) (/usr/local/texlive/2020/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
@@ -727,183 +748,255 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
 e
 ))
 Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: listings package is loaded.
 Package caption Info: End \AtBeginDocument code.
+\c@lstlisting=\count408
 
-Overfull \hbox (34.76837pt too wide) in paragraph at lines 32--33
+Overfull \hbox (53.39899pt too wide) in paragraph at lines 33--34
  [][] 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--46
+Underfull \hbox (badness 10000) in paragraph at lines 43--47
 
  []
 
 [1
 
-{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-<./assets/disparity_example_left.png, id=7, 385.44pt x 289.08pt>
-File: ./assets/disparity_example_left.png Graphic file (type png)
-<use ./assets/disparity_example_left.png>
-Package pdftex.def Info: ./assets/disparity_example_left.png  used on input lin
-e 95.
-(pdftex.def)             Requested size: 155.24895pt x 116.43715pt.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 97.
-
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./ster
+eo_vision.toc
+LaTeX Font Info:    Trying to load font information for U+msa on input line 8.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 97.
-
+LaTeX Font Info:    Trying to load font information for U+msb on input line 8.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+lasy on input line 97
-.
+LaTeX Font Info:    Trying to load font information for U+lasy on input line 8.
+
 (/usr/local/texlive/2020/texmf-dist/tex/latex/base/ulasy.fd
 File: ulasy.fd 1998/08/17 v2.2e LaTeX symbol font definitions
-)
-<./assets/disparity_example_right.png, id=8, 385.44pt x 289.08pt>
+))
+\tf@toc=\write4
+\openout4 = `stereo_vision.toc'.
+
+[1]
+<./assets/disparity_example_left.png, id=12, 385.44pt x 289.08pt>
+File: ./assets/disparity_example_left.png Graphic file (type png)
+<use ./assets/disparity_example_left.png>
+Package pdftex.def Info: ./assets/disparity_example_left.png  used on input lin
+e 100.
+(pdftex.def)             Requested size: 161.9989pt x 121.49657pt.
+<./assets/disparity_example_right.png, id=13, 385.44pt x 289.08pt>
 File: ./assets/disparity_example_right.png Graphic file (type png)
 <use ./assets/disparity_example_right.png>
 Package pdftex.def Info: ./assets/disparity_example_right.png  used on input li
-ne 99.
-(pdftex.def)             Requested size: 155.24895pt x 116.43715pt.
+ne 104.
+(pdftex.def)             Requested size: 161.9989pt x 121.49657pt.
 
-Overfull \hbox (2.22168pt too wide) in paragraph at lines 94--102
+Overfull \hbox (2.42162pt too wide) in paragraph at lines 99--107
 []$[]$ $[]$ 
  []
 
-<./assets/triangulation_with_cameras.png, id=9, 515.9275pt x 675.52374pt>
+[2 <./assets/disparity_example_left.png (PNG copy)> <./assets/disparity_example
+_right.png (PNG copy)>]
+<./assets/triangulation_with_cameras.png, id=19, 515.9275pt x 675.52374pt>
 File: ./assets/triangulation_with_cameras.png Graphic file (type png)
 <use ./assets/triangulation_with_cameras.png>
 Package pdftex.def Info: ./assets/triangulation_with_cameras.png  used on input
- line 114.
-(pdftex.def)             Requested size: 241.49895pt x 316.19743pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[1 <./assets/disparity_example_left.png (PNG copy)> <./assets/disparity_example
-_right.png (PNG copy)>]
-<./assets/disparity_map_example.jpg, id=18, 385.44pt x 289.08pt>
+ line 119.
+(pdftex.def)             Requested size: 251.9989pt x 329.94785pt.
+[3 <./assets/triangulation_with_cameras.png>]
+<./assets/disparity_map_example.jpg, id=26, 385.44pt x 289.08pt>
 File: ./assets/disparity_map_example.jpg Graphic file (type jpg)
 <use ./assets/disparity_map_example.jpg>
 Package pdftex.def Info: ./assets/disparity_map_example.jpg  used on input line
- 123.
-(pdftex.def)             Requested size: 172.5pt x 129.37462pt.
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[2 <./assets/triangulation_with_cameras.png>]
-<./assets/cameras_conveniently_placed.png, id=24, 334.24875pt x 232.87pt>
+ 128.
+(pdftex.def)             Requested size: 180.0pt x 134.99864pt.
+<./assets/cameras_conveniently_placed.png, id=27, 334.24875pt x 232.87pt>
 File: ./assets/cameras_conveniently_placed.png Graphic file (type png)
 <use ./assets/cameras_conveniently_placed.png>
 Package pdftex.def Info: ./assets/cameras_conveniently_placed.png  used on inpu
-t line 136.
-(pdftex.def)             Requested size: 103.50105pt x 72.10722pt.
-<./assets/cameras_inconveniently_placed.png, id=25, 509.905pt x 275.0275pt>
+t line 141.
+(pdftex.def)             Requested size: 108.0011pt x 75.24478pt.
+<./assets/cameras_inconveniently_placed.png, id=28, 509.905pt x 275.0275pt>
 File: ./assets/cameras_inconveniently_placed.png Graphic file (type png)
 <use ./assets/cameras_inconveniently_placed.png>
 Package pdftex.def Info: ./assets/cameras_inconveniently_placed.png  used on in
-put line 141.
-(pdftex.def)             Requested size: 155.24895pt x 83.73848pt.
-<./assets/rectification_example.png, id=26, 661.47125pt x 622.325pt>
+put line 146.
+(pdftex.def)             Requested size: 161.9989pt x 87.3769pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+<./assets/rectification_example.png, id=29, 661.47125pt x 622.325pt>
 File: ./assets/rectification_example.png Graphic file (type png)
 <use ./assets/rectification_example.png>
 Package pdftex.def Info: ./assets/rectification_example.png  used on input line
- 152.
-(pdftex.def)             Requested size: 241.49895pt x 227.19896pt.
+ 157.
+(pdftex.def)             Requested size: 251.9989pt x 237.0842pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[3 <./assets/disparity_map_example.jpg> <./assets/cameras_conveniently_placed.p
-ng> <./assets/cameras_inconveniently_placed.png>] [4 <./assets/rectification_ex
-ample.png>]
-<./assets/nn_structure_prod.png, id=44, 462.72874pt x 392.46625pt>
+[4 <./assets/disparity_map_example.jpg>] [5 <./assets/cameras_conveniently_plac
+ed.png> <./assets/cameras_inconveniently_placed.png>] [6 <./assets/rectificatio
+n_example.png>]
+<./assets/nn_structure_prod.png, id=52, 462.72874pt x 392.46625pt>
 File: ./assets/nn_structure_prod.png Graphic file (type png)
 <use ./assets/nn_structure_prod.png>
-Package pdftex.def Info: ./assets/nn_structure_prod.png  used on input line 198
+Package pdftex.def Info: ./assets/nn_structure_prod.png  used on input line 203
 .
-(pdftex.def)             Requested size: 345.0pt x 292.61826pt.
+(pdftex.def)             Requested size: 360.0pt x 305.33792pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 
-LaTeX Warning: Command \cyrs invalid in math mode on input line 205.
+LaTeX Warning: Command \cyrs invalid in math mode on input line 210.
 
 Missing character: There is no с in font cmr10!
-[5] [6 <./assets/nn_structure_prod.png>]
-<./assets/kitti_example_left.png, id=55, 1245.65375pt x 377.41pt>
+[7] [8 <./assets/nn_structure_prod.png>]
+<./assets/kitti_example_left.png, id=61, 1245.65375pt x 377.41pt>
 File: ./assets/kitti_example_left.png Graphic file (type png)
 <use ./assets/kitti_example_left.png>
-Package pdftex.def Info: ./assets/kitti_example_left.png  used on input line 21
-9.
-(pdftex.def)             Requested size: 345.0pt x 104.52808pt.
-<./assets/kitti_example_right.png, id=56, 1245.65375pt x 377.41pt>
+Package pdftex.def Info: ./assets/kitti_example_left.png  used on input line 22
+4.
+(pdftex.def)             Requested size: 360.0pt x 109.07176pt.
+<./assets/kitti_example_right.png, id=62, 1245.65375pt x 377.41pt>
 File: ./assets/kitti_example_right.png Graphic file (type png)
 <use ./assets/kitti_example_right.png>
 Package pdftex.def Info: ./assets/kitti_example_right.png  used on input line 2
-23.
-(pdftex.def)             Requested size: 345.0pt x 104.52808pt.
-<./assets/no_smoothing_result.png, id=57, 1245.65375pt x 377.41pt>
+28.
+(pdftex.def)             Requested size: 360.0pt x 109.07176pt.
+<./assets/no_smoothing_result.png, id=63, 1245.65375pt x 377.41pt>
 File: ./assets/no_smoothing_result.png Graphic file (type png)
 <use ./assets/no_smoothing_result.png>
 Package pdftex.def Info: ./assets/no_smoothing_result.png  used on input line 2
-27.
-(pdftex.def)             Requested size: 345.0pt x 104.52808pt.
-[7 <./assets/kitti_example_left.png (PNG copy)> <./assets/kitti_example_right.p
-ng (PNG copy)> <./assets/no_smoothing_result.png (PNG copy)>] [8] [9]
-<./assets/smoothing_result.png, id=67, 1245.65375pt x 377.41pt>
+32.
+(pdftex.def)             Requested size: 360.0pt x 109.07176pt.
+[9 <./assets/kitti_example_left.png (PNG copy)> <./assets/kitti_example_right.p
+ng (PNG copy)> <./assets/no_smoothing_result.png (PNG copy)>] [10]
+Overfull \hbox (1.2361pt too wide) in paragraph at lines 274--276
+\T2A/cmr/m/n/10.95 де, $\OML/cmm/m/it/10.95 x$ \T2A/cmr/m/n/10.95 - ве-ктор ймо
+-вiр-но-стей роз-ра-хо-ва-ний ней-рон-ною ме-ре-жею, $\OML/cmm/m/it/10.95 d[]$ 
+\T2A/cmr/m/n/10.95 - справ-
+ []
+
+[11]
+Overfull \hbox (1.78937pt too wide) in paragraph at lines 302--303
+[]\T2A/cmr/m/n/10.95 Пiсля на-ве-ден-них ви-ще кро-кiв до отри-ман-нi зна-че-н-
+ня до-да-тко-во обро-
+ []
+
+<./assets/smoothing_result.png, id=73, 1245.65375pt x 377.41pt>
 File: ./assets/smoothing_result.png Graphic file (type png)
 <use ./assets/smoothing_result.png>
-Package pdftex.def Info: ./assets/smoothing_result.png  used on input line 300.
+Package pdftex.def Info: ./assets/smoothing_result.png  used on input line 307.
 
-(pdftex.def)             Requested size: 345.0pt x 104.52808pt.
-[10 <./assets/smoothing_result.png (PNG copy)>]
+(pdftex.def)             Requested size: 360.0pt x 109.07176pt.
+[12] [13 <./assets/smoothing_result.png (PNG copy)>]
 LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
-308.
+315.
 (/usr/local/texlive/2020/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
 File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-Overfull \hbox (12.84378pt too wide) in paragraph at lines 309--309
-\T2A/cmr/m/n/10 frame stereo correspondence algori-thms''. в: \T2A/cmr/m/it/10 
-Internati-onal Journal of Computer
+Overfull \hbox (5.53815pt too wide) in paragraph at lines 316--316
+\T2A/cmr/m/it/10.95 Deep Network Trai-ni-ng by Reduci-ng Internal Covari-ate Sh
+i-ft\T2A/cmr/m/n/10.95 . 2015. arXiv:
  []
 
-[11] (./stereo_vision.aux)
+
+Overfull \hbox (0.5819pt too wide) in paragraph at lines 316--316
+\T2A/cmr/m/n/10.95 Matchi-ng''. в: \T2A/cmr/m/it/10.95 Internati-onal Conferenc
+e on Computer Vi-si-on and Pattern
+ []
+
+[14] (/usr/local/texlive/2020/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2020/03/24 1.8d listings language file
+) (./assets/extract_patches.m
+Overfull \hbox (51.56584pt too wide) in paragraph at lines 10--11
+[][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (71.16422pt too wide) in paragraph at lines 17--18
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (71.16422pt too wide) in paragraph at lines 28--29
+[][][][][][][][][][][][][][][][][][][][][][][][][][] 
+ []
+
+[15]
+Overfull \hbox (71.16422pt too wide) in paragraph at lines 41--42
+[][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (5.8363pt too wide) in paragraph at lines 45--46
+[][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (31.96747pt too wide) in paragraph at lines 47--48
+[][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (77.697pt too wide) in paragraph at lines 50--51
+[][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (18.90189pt too wide) in paragraph at lines 52--53
+[][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (71.16422pt too wide) in paragraph at lines 53--54
+[][][][][][][][][][][][][][][][] 
+ []
+
+
+Overfull \hbox (18.90189pt too wide) in paragraph at lines 55--57
+[][][][][][][][][][][][][][][] 
+ []
+
+) [16] (./stereo_vision.aux)
 Package logreq Info: Writing requests to 'stereo_vision.run.xml'.
 \openout1 = `stereo_vision.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 13067 strings out of 480608
- 226275 string characters out of 5903630
- 886701 words of memory out of 5000000
- 28804 multiletter control sequences out of 15000+600000
- 541536 words of font info for 45 fonts, out of 8000000 for 9000
+ 15316 strings out of 480608
+ 254967 string characters out of 5903630
+ 918409 words of memory out of 5000000
+ 31023 multiletter control sequences out of 15000+600000
+ 544509 words of font info for 55 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 41i,7n,45p,1335b,1704s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 41i,7n,45p,1335b,2207s stack positions out of 5000i,500n,10000p,200000b,80000s
 {/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc
 }{/usr/local/texlive/2020/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}
 </usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
 /usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></
-usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi5.pfb></us
-r/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi7.pfb></usr/
+usr/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></us
+r/local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/
 local/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
-cal/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr5.pfb></usr/local
-/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/te
+cal/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local
+/texlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/te
 xlive/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/tex
-live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy7.pfb></usr/local/texli
-ve/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1000.pfb></usr/local/texlive
+live/2020/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texli
+ve/2020/texmf-dist/fonts/type1/public/cm-super/sfbx1095.pfb></usr/local/texlive
 /2020/texmf-dist/fonts/type1/public/cm-super/sfbx1200.pfb></usr/local/texlive/2
 020/texmf-dist/fonts/type1/public/cm-super/sfbx1440.pfb></usr/local/texlive/202
-0/texmf-dist/fonts/type1/public/cm-super/sfrm0900.pfb></usr/local/texlive/2020/
-texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2020/te
-xmf-dist/fonts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2020/texm
-f-dist/fonts/type1/public/cm-super/sftt1000.pfb>
-Output written on stereo_vision.pdf (12 pages, 3079702 bytes).
+0/texmf-dist/fonts/type1/public/cm-super/sfrm1000.pfb></usr/local/texlive/2020/
+texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb></usr/local/texlive/2020/te
+xmf-dist/fonts/type1/public/cm-super/sfti1095.pfb></usr/local/texlive/2020/texm
+f-dist/fonts/type1/public/cm-super/sftt1095.pfb>
+Output written on stereo_vision.pdf (17 pages, 3118109 bytes).
 PDF statistics:
- 129 PDF objects out of 1000 (max. 8388607)
- 81 compressed objects within 1 object stream
+ 145 PDF objects out of 1000 (max. 8388607)
+ 92 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  61 words of extra memory for PDF output out of 10000 (max. 10000000)
 
